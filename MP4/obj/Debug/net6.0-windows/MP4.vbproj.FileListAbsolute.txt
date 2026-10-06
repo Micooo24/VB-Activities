@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\MP4\MP4\obj\Debug\net6.0-windows\MP4.vbproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\MP4\MP4\obj\Debug\net6.0-windows\MP4.Form1.resources
+C:\Users\ACER\source\repos\MP4\MP4\obj\Debug\net6.0-windows\MP4.vbproj.GenerateResource.cache
+C:\Users\ACER\source\repos\MP4\MP4\obj\Debug\net6.0-windows\MP4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\MP4\MP4\obj\Debug\net6.0-windows\MP4.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\MP4\MP4\obj\Debug\net6.0-windows\MP4.AssemblyInfo.vb
+C:\Users\ACER\source\repos\MP4\MP4\obj\Debug\net6.0-windows\MP4.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\MP4\MP4\bin\Debug\net6.0-windows\MP4.exe
+C:\Users\ACER\source\repos\MP4\MP4\bin\Debug\net6.0-windows\MP4.deps.json
+C:\Users\ACER\source\repos\MP4\MP4\bin\Debug\net6.0-windows\MP4.runtimeconfig.json
+C:\Users\ACER\source\repos\MP4\MP4\bin\Debug\net6.0-windows\MP4.dll
+C:\Users\ACER\source\repos\MP4\MP4\bin\Debug\net6.0-windows\MP4.pdb
+C:\Users\ACER\source\repos\MP4\MP4\obj\Debug\net6.0-windows\MP4.dll
+C:\Users\ACER\source\repos\MP4\MP4\obj\Debug\net6.0-windows\refint\MP4.dll
+C:\Users\ACER\source\repos\MP4\MP4\obj\Debug\net6.0-windows\MP4.pdb
+C:\Users\ACER\source\repos\MP4\MP4\obj\Debug\net6.0-windows\MP4.genruntimeconfig.cache
+C:\Users\ACER\source\repos\MP4\MP4\obj\Debug\net6.0-windows\ref\MP4.dll

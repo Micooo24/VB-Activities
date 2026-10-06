@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\bin\Debug\net6.0-windows\Program test wk4.exe
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\bin\Debug\net6.0-windows\Program test wk4.deps.json
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\bin\Debug\net6.0-windows\Program test wk4.runtimeconfig.json
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\bin\Debug\net6.0-windows\Program test wk4.dll
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\bin\Debug\net6.0-windows\Program test wk4.pdb
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\obj\Debug\net6.0-windows\Program test wk4.vbproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\obj\Debug\net6.0-windows\Program_test_wk4.Form1.resources
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\obj\Debug\net6.0-windows\Program test wk4.vbproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\obj\Debug\net6.0-windows\Program test wk4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\obj\Debug\net6.0-windows\Program test wk4.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\obj\Debug\net6.0-windows\Program test wk4.AssemblyInfo.vb
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\obj\Debug\net6.0-windows\Program test wk4.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\obj\Debug\net6.0-windows\Program test wk4.dll
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\obj\Debug\net6.0-windows\refint\Program test wk4.dll
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\obj\Debug\net6.0-windows\Program test wk4.pdb
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\obj\Debug\net6.0-windows\Program test wk4.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Program test wk4\Program test wk4\obj\Debug\net6.0-windows\ref\Program test wk4.dll
